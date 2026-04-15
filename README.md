@@ -5,7 +5,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 ## Live links (replace with your own)
 - Leaflet Map https://geotestimoniosproject-eng.github.io/mujeres-eternas/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1Vnwg_XQ6LsaxiOukTuizGulXC7TDPoX8in9BrN-CQp0/edit?gid=0#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/15Tq4O8RQmSvOBmt3djDJDPLdJIUm0GGvNLRGroukPuI/edit?gid=858846768#gid=858846768 
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
